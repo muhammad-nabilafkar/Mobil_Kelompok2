@@ -1,0 +1,2 @@
+Kelompok 2 Grafika Komputer
+Membuat Objek Mobil Menggunakan OpenGL
